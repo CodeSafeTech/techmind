@@ -1,0 +1,2 @@
+# techmind
+For growing up
